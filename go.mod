@@ -10,5 +10,5 @@ require (
 require (
 	github.com/alexflint/go-scalar v1.0.0 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
-	golang.org/x/sys v0.0.0-20180816055513-1c9583448a9c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
